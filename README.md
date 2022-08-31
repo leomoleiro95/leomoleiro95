@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @leomoleiro95
 - 👀 I’m interested in engineering, music, climate
-- 🌱 I’m currently earning a FUll Stack Engineer Certifiaction
 - 💞️ I’m looking to collaborate on high impact projects
 - 📫 How to reach me write good code
 
