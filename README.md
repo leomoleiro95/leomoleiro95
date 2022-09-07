@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leomoleiro95
+- 👋 Hi, I’m Leo
 - 👀 I’m interested in engineering, music, climate
 - 💞️ I’m looking to collaborate on high impact projects
 - 📫 How to reach me write good code
